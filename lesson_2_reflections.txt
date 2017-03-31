@@ -17,4 +17,10 @@ experimental features, people working concurrently
 
 How do the diagrams help you visualize the branch structure?
 
-Because visualizing if helpful.
+Because visualizing if helpful. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+adding all code from a different branch, while maintain deletes that occurred in either branch's ancestor.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+less work, but more sure of result
